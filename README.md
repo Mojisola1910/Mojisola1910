@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mojisola
 - 👀 I’m interested in .role of a data analyst..
 - 🌱 I’m currently learning .data analysis..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Mojisola1910/Mojisola1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
